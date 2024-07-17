@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Speech Text Reader
 
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
@@ -9,3 +10,6 @@ A text to speech app for non-verbal people. Pre-made buttons and custom text spe
 - Drop down custom text to speech
 - Speaks the text typed in
 - Change voices and accents
+=======
+# Speech-Text-Reader
+>>>>>>> 47c03a12694ef9957dd879fad436ef60980203ad
